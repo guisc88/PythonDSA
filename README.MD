@@ -3,7 +3,7 @@ Hello Stranger
 ```
 ### <h2> Curso Python - Nível Introdutório <h2>
 
- | Parte do Curso | Observações |
+ | Capítulo do Curso | Observações |
 | ------ | ------ |
 | **Introdução à Lógica de Programação** |  <p style="color:blue">:memo: Parte introdutória do curso com foco em pseudocódigo e algoritmos</p> | 
 | **Variáveis, Tipos e Estruturas de Dados** | <p style="color:blue">:memo: </p> | 
@@ -11,3 +11,9 @@ Hello Stranger
 | **Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in** | <p style="color:blue">:memo: </p> |
 
 
+
+### <h2> Curso Bônus - Introdução à Lógica de Programação <h2>
+
+ | Capítulo do Curso | Observações |
+| ------ | ------ |
+| **Introdução à Lógica de Programação** |  <p style="color:blue">:memo: Raciocínio lógico e Pseudocódigo, Programando com Funções, Estrutura de Repetição e Condicional, Recursividade, Pesquisa Binária, Ordenação, Tabelas Hash, Grafos e Algoritmo Breadth-First Search, Backtracking, Algoritmos Gulosos, Programação Dinâmica, O Momento Eureka, Machine Learning do Zero - Algoritmo de Aprendizagem Supervisionada e Machine Learning do Zero - Algoritmo de Aprendizagem Não Supervisionada </p> | 
