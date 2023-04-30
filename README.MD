@@ -7,7 +7,7 @@ Hello Stranger
 | ------ | ------ |
 | **Introdução à Lógica de Programação** |  <p style="color:blue">:memo: Parte introdutória do curso com foco em pseudocódigo e algoritmos. </p> | 
 | **Variáveis, Tipos e Estruturas de Dados** | <p style="color:blue">:memo: Operações matemáticas, variáveis, operadores, strings, indexação, listas, dicionários e tuplas. </p> | 
-| **Loops, Condicionais, Métodos e Funções** | <p style="color:blue">:memo: Condicionais, operadores relacionais, condicionais aninhados, operadores lógicos, loop for, loop while, intervalos de valores, métodos, funções, escopo de variável (local e global), funções built-in, split de dados </p> |
+| **Loops, Condicionais, Métodos e Funções** | <p style="color:blue">:memo: Condicionais, operadores relacionais, condicionais aninhados, operadores lógicos, loop for, loop while, intervalos de valores, métodos, funções, escopo de variável (local e global), funções built-in, split de dados, expressão lambda, list comprehension, dict comprehension e construir uma calculadora. </p> |
 | **Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in** | <p style="color:blue">:memo: </p> |
 
 
