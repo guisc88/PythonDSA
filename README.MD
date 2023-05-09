@@ -16,4 +16,4 @@ Hello Stranger
 
  | Capítulo do Curso | Observações |
 | ------ | ------ |
-| **Introdução à Lógica de Programação** |  <p style="color:blue">:memo: Raciocínio lógico e Pseudocódigo, Programando com Funções, Estrutura de Repetição e Condicional, Recursividade, Pesquisa Binária, Ordenação, Tabelas Hash, Grafos e Algoritmo Breadth-First Search, Backtracking, Algoritmos Gulosos, Programação Dinâmica, O Momento Eureka, Machine Learning do Zero - Algoritmo de Aprendizagem Supervisionada e Machine Learning do Zero - Algoritmo de Aprendizagem Não Supervisionada </p> | <p> Novos algoritmos</p>
+| **Introdução à Lógica de Programação** |  <p style="color:blue">:memo: Raciocínio lógico e Pseudocódigo, Programando com Funções, Estrutura de Repetição e Condicional, Recursividade, Pesquisa Binária, Ordenação, Tabelas Hash, Grafos e Algoritmo Breadth-First Search, Backtracking, Algoritmos Gulosos, Programação Dinâmica, O Momento Eureka, Machine Learning do Zero - Algoritmo de Aprendizagem Supervisionada e Machine Learning do Zero - Algoritmo de Aprendizagem Não Supervisionada </p> | <p> Novos algoritmos Curso Bônus</p>
